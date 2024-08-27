@@ -193,7 +193,7 @@
             "type": "bind"
         }
     ],
-    "image": "ghcr.io/primijenjena-informatika/codespace-cloud:0.0.1-amd64",
+    "image": "ghcr.io/primijenjena-informatika/codespace-cloud:0.0.2-amd64",
     "postCreateCommand": "/opt/primijenjenainformatika/bin/postCreateCommand",
     "postStartCommand": "/opt/primijenjenainformatika/bin/postStartCommand",
     "remoteEnv": {

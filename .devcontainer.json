@@ -194,8 +194,8 @@
         }
     ],
     "image": "ghcr.io/primijenjena-informatika/codespace-cloud:0.0.3-amd64",
-    "postCreateCommand": "/opt/primijenjenainformatika/bin/postCreateCommand",
-    "postStartCommand": "/opt/primijenjenainformatika/bin/postStartCommand",
+    "postCreateCommand": "/opt/primijenjena-informatika/bin/postCreateCommand",
+    "postStartCommand": "/opt/primijenjena-informatika/bin/postStartCommand",
     "remoteEnv": {
         "LOCAL_WORKSPACE_FOLDER": "${localWorkspaceFolder}"
     }

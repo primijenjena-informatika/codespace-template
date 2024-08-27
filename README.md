@@ -1,1 +1,1 @@
-# codespace-template
+# Codespaces za Primijenjenu informatiku

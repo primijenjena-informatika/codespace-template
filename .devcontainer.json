@@ -3,7 +3,8 @@
     "vscode": {
       "extensions": [
         "cs50.extension-uninstaller",
-        "primijenjena-informatika.primijenjena-informatika"
+        "primijenjena-informatika.primijenjena-informatika",
+        "primijenjena-informatika.baltazar"
       ],
       "settings": {
         "breadcrumbs.enabled": true,

@@ -135,16 +135,15 @@
           "editorWarning.foreground": "#0000" /* Disable yellow squiggles */,
           "editorGutter.addedBackground": "#0000",
           "editorGutter.deletedBackground": "#0000",
-          "editorGutter.modifiedBackground": "#0000" /* Disable yellow bars to left of lines modified since last commit */,
+          "editorGutter.modifiedBackground": "#0000" /* Disable yellow bars to left of lines modified since last commit */
         },
-          
+
         "window.commandCenter": false,
         "workbench.editorAssociations": {
           "*.wav": "vscode.audioPreview"
         },
         "workbench.editor.closeOnFileDelete": true,
         "workbench.editor.enablePreview": false,
-        "workbench.iconTheme": "vs-minimal" /* Simplify icons */,
         "workbench.preferredDarkColorTheme": "GitHub Dark Default",
         "workbench.preferredLightColorTheme": "GitHub Light Default",
         "workbench.startupEditor": "none",
